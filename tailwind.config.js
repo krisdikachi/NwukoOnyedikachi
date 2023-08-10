@@ -1,7 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   darkMode:'class',
-  content: ["./src/index.html,input.css,script.js"],
+  content: ["/index.html,input.css,script.js"],
   theme: {
     spacing: {
       97: '200px'},
